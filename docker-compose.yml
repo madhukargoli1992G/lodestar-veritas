@@ -1,0 +1,9 @@
+services:
+  lodestar-veritas-api:
+    build: .
+    container_name: lodestar-veritas-api
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+    command: uvicorn lodestar_veritas.api.main:app --host 0.0.0.0 --port 8000

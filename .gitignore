@@ -1,0 +1,68 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+.venv/
+.myenv/
+venv/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Environment
+
+.env
+
+# Data
+
+data/uploads/*
+data/images/*
+data/indexes/*
+
+!data/uploads/.gitkeep
+!data/images/.gitkeep
+!data/indexes/.gitkeep
+
+# Logs
+
+*.log
+
+# Cache
+
+.cache/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Pytest
+
+.pytest_cache/
+
+# Mypy
+
+.mypy_cache/
+
+# Coverage
+
+.coverage
+
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Qdrant local storage
+.qdrant/
+
+# Local inspection files
+structure.txt
