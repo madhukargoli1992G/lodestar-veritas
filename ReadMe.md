@@ -1,6 +1,6 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 🚀LODESTAR VERITAS
+────────────────────────────────────────────────────────
+#                 🌌LODESTAR VERITAS
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Enabled-009688?logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker)
@@ -13,7 +13,10 @@
 Hybrid Retrieval • LangGraph • Ollama • Qdrant
 Verification • Guardrails • FastAPI • Docker
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+────────────────────────────────────────────────────────
+
+
 
 > **Production-Style Agentic Multimodal Retrieval-Augmented Generation (RAG) Platform**
 >
