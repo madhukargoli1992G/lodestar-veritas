@@ -346,7 +346,6 @@ Unlike basic RAG systems that rely only on vector similarity, this project fuses
 ---
 
 ## Retrieval Architecture
-
 ```mermaid
 flowchart LR
 
@@ -376,7 +375,6 @@ E --> F
 
 F --> G
 ```
-
 ---
 
 ## Dense Semantic Retrieval
