@@ -8,8 +8,10 @@
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black)
 ![Tests](https://img.shields.io/badge/Tests-90%2B%20Passing-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Hybrid Retrieval • LangGraph • Ollama • Qdrant
 Verification • Guardrails • FastAPI • Docker
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 > **Production-Style Agentic Multimodal Retrieval-Augmented Generation (RAG) Platform**
