@@ -132,7 +132,6 @@ This design enables:
 * Production-oriented scalability
 
 # 🤖 Agent Workflow
-
 ```mermaid
 flowchart TD
 
@@ -187,7 +186,6 @@ N --> I
 M -->|Verified| O
 O --> P
 ```
-
 ---
 
 ## Workflow Overview
