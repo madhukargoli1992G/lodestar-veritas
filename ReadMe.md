@@ -1,4 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 # 🚀LODESTAR VERITAS
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Enabled-009688?logo=fastapi)
